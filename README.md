@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hammad%20Amer&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
+
 <h1 align="center">Hi 👋, I'm Hammad Amer</h1>
 <h3 align="center">Software Engineer — AI/ML • Full-Stack • Cloud & DevOps</h3>
 
