@@ -77,17 +77,5 @@ Builds, security-scans, and deploys a containerized app to Amazon EKS with GitOp
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammad-Amer&show_icons=true&theme=default" alt="Hammad's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad-Amer" alt="Hammad's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Amer&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 <p align="center">📫 Reach me at <a href="mailto:hammadamer386@gmail.com">hammadamer386@gmail.com</a></p>
